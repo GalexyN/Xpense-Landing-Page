@@ -1,15 +1,13 @@
-# Getting Started with Create React App
+# Xpense Landing Page
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ![image](https://user-images.githubusercontent.com/66571090/132770696-7ebd9100-8add-4fbc-868d-e6a82efa05b8.png)
 
-# Xpense-Landing-Page
-
-# Description
+## Description
 This is a creation of a landing page from a UIKit found on Figma - https://www.figma.com/community/file/1017796439842049665
 
-# Technologies
+## Technologies
 - Frontend
   - React
 - Backend
